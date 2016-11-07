@@ -1,6 +1,0 @@
-total 8.1M
-240K -rw-rw-r--. 1 dsc dsc 233K Oct 25 20:15 find_file.txt
- 24K -rw-r--r--. 1 dsc dsc  19K Nov  8  2015 optd_aircraft.csv
-112K -rw-r--r--. 1 dsc dsc 105K Nov  8  2015 optd_airlines.csv
-7.8M -rw-r--r--. 1 dsc dsc 7.8M Nov  8  2015 optd_por_public.csv
- 12K -rw-rw-r--. 1 dsc dsc 5.7K Nov  9  2015 ref_airline_nb_of_flights.csv
